@@ -14,7 +14,8 @@ a:link, a:visited {
    padding: 2px;
    border: 2px dashed #747474;
    border-radius: 10px 10px 10px 0px;
-   user-select: none;
+   -webkit-user-select: none;
+   -moz-user-select: none;
    color:#424242;
    text-decoration: none;
 }
