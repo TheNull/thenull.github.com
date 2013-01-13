@@ -9,7 +9,7 @@ body {
    font-size: 20px;  
 }
 
-link {
+a:link, a:visited {
 	border: 10px dashed #747474;
 	border-radius: 25px 25px 25px 0px;
 }
