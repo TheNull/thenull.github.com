@@ -6,10 +6,24 @@ body {
    font-family: "Helvetica", "Geneva", "Arial", sans-serif;
    color: #7a7a7a;
    font-weight: bold;
-   font-size: 20px;  
+   font-size: 20px;
+   line-height: 150%;
 }
 
 a:link, a:visited {
-	border: 10px dashed #747474;
-	border-radius: 25px 25px 25px 0px;
+    padding: 2px;
+	border: 2px dashed #747474;
+	border-radius: 10px 10px 10px 0px;
+	user-select: none;
+	color:#424242;
+	text-decoration: none;
+}
+
+a:hover {
+	padding: 2px;
+	border: 2px solid #747474;
+	border-radius: 10px 10px 10px 0px;
+	user-select: none;
+	color:red;
+	text-decoration: none;
 }
