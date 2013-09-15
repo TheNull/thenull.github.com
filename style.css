@@ -20,6 +20,7 @@ a:link, a:visited {
    color:#424242;
    text-decoration: none;
    transition: all .5s linear 0;
+   -webkit-transition: all .5s linear 0;
 }
 
 a:hover {
@@ -31,5 +32,6 @@ a:hover {
    -moz-user-select: none;
    color:red;
    text-decoration: none;
-   transition: all .5s linear 0;
+   transition: all .5s linear 0
+   -webkit-transition: all .5s linear 0;
 }
