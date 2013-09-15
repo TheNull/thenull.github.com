@@ -19,6 +19,7 @@ a:link, a:visited {
    -moz-user-select: none;
    color:#424242;
    text-decoration: none;
+   transition: all .5s linear 0;
 }
 
 a:hover {
@@ -30,4 +31,5 @@ a:hover {
    -moz-user-select: none;
    color:red;
    text-decoration: none;
+   transition: all .5s linear 0;
 }
