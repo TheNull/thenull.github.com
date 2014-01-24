@@ -9,7 +9,7 @@ body {
   border: 2px;
   border-radius: 10px 10px 10px 10px;
   background-color: #7a7a7a;
-  padding: 5px 0px 5px 0px;
+  padding: 0px 5px 0px 5px;
 }
 #rightbox {
   width:50%;
@@ -17,4 +17,5 @@ body {
   border: 2px;
   border-radius: 10px 10px 10px 10px;
   background-color: #7a7a7a;
+  padding: 0px 5px 0px 5px;
 }
