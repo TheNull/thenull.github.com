@@ -9,6 +9,7 @@ body {
   border: 2px;
   border-radius: 10px 10px 10px 10px;
   background-color: #7a7a7a;
+  padding: 5px 0px 5px 0px;
 }
 #rightbox {
   width:50%;
