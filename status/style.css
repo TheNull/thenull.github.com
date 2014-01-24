@@ -3,3 +3,15 @@ body {
   font-family: Helvetica;
   color: #ffffff;
 }
+.leftbox {
+  width: 50%;
+  float:left;
+  border: 2px;
+  border-radius: 10px 10px 10px 10px;
+}
+.rightbox {
+  width:50%;
+  float:right;
+  border: 2px;
+  border-radius: 10px 10px 10px 10px;
+}
