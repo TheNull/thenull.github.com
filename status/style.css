@@ -8,10 +8,12 @@ body {
   float:left;
   border: 2px;
   border-radius: 10px 10px 10px 10px;
+  background-color: #7a7a7a;
 }
 .rightbox {
   width:50%;
   float:right;
   border: 2px;
   border-radius: 10px 10px 10px 10px;
+  background-color: #7a7a7a;
 }
