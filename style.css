@@ -19,7 +19,7 @@ body {
 a:link, a:visited {
    padding: 2px;
    border: 2px dashed #ddd;
-   border-radius: 10px 10px 10px 0px;
+   border-radius: 10px 10px 10px 10px;
    user-select: none;
    -webkit-user-select: none;
    -moz-user-select: none;
@@ -33,7 +33,7 @@ a:link, a:visited {
 a:hover {
    padding: 2px;
    border: 2px solid #ffffff;
-   border-radius: 10px 10px 10px 0px;
+   border-radius: 10px 10px 10px 10px;
    text-shadow: none;
    user-select: none;
    -webkit-user-select: none;
