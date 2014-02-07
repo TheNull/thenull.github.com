@@ -7,7 +7,7 @@ body {
    /*background: #b0b0af;*/
    background: -webkit-linear-gradient(#0000FF,#0000AA);
    background-attachment: fixed;
-   text-shadow: 0px 2px 1px #DDDDDD;
+   text-shadow: 0px 2px 1px #0000AA;
    margin-top: 100px;
    font-family: "Helvetica", "Geneva", "Arial", sans-serif;
    color: #0000FF;
