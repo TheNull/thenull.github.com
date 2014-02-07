@@ -18,12 +18,12 @@ body {
 
 a:link, a:visited {
    padding: 2px;
-   border: 2px dashed #747474;
+   border: 2px dashed #ffffff;
    border-radius: 10px 10px 10px 0px;
    user-select: none;
    -webkit-user-select: none;
    -moz-user-select: none;
-   color:#424242;
+   color:#0000DD;
    text-decoration: none;
    transition: all .5s linear 0;
    -webkit-transition: all .5s linear 0;
@@ -31,7 +31,7 @@ a:link, a:visited {
 
 a:hover {
    padding: 2px;
-   border: 2px solid #747474;
+   border: 2px solid #ffffff;
    border-radius: 10px 10px 10px 0px;
    user-select: none;
    -webkit-user-select: none;
