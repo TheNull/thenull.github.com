@@ -4,6 +4,7 @@ html {
 
 body {
    text-align: center;
+   -webkit-font-smoothing: antialiased;
    /*background: #b0b0af;*/
    background: -webkit-linear-gradient(#2525D9 60%,#0000CC);
    background-attachment: fixed;
