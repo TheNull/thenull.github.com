@@ -5,14 +5,14 @@ html {
 body {
    text-align: center;
    -webkit-font-smoothing: antialiased;
-   /*background: #b0b0af;*/
+   background: #40ddd5;*/
    background: linear-gradient(#2525D9 60%,#0000CC);
    background: -webkit-linear-gradient(#2525D9 60%,#0000CC);
    background-attachment: fixed;
    text-shadow: 0px 2px 1px #222;
    margin-top: 100px;
    font-family: "Helvetica", "Geneva", "Arial", sans-serif;
-   color: #FD5F00;
+   color: #fd874f;
    font-weight: bold;
    font-size: 30px;
    line-height: 150%;
